@@ -1,0 +1,1496 @@
+fileFormatVersion: 2
+guid: c057936983c00b14ba06fe1c6e99333b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Zombie - Sprite Sheet 1_0
+    21300002: Zombie - Sprite Sheet 1_1
+    21300004: Zombie - Sprite Sheet 1_2
+    21300006: Zombie - Sprite Sheet 1_3
+    21300008: Zombie - Sprite Sheet 1_4
+    21300010: Zombie - Sprite Sheet 1_5
+    21300012: Zombie - Sprite Sheet 1_6
+    21300014: Zombie - Sprite Sheet 1_7
+    21300016: Zombie - Sprite Sheet 1_8
+    21300018: Zombie - Sprite Sheet 1_9
+    21300020: Zombie - Sprite Sheet 1_10
+    21300022: Zombie - Sprite Sheet 1_11
+    21300024: Zombie - Sprite Sheet 1_12
+    21300026: Zombie - Sprite Sheet 1_13
+    21300028: Zombie - Sprite Sheet 1_14
+    21300030: Zombie - Sprite Sheet 1_15
+    21300032: Zombie - Sprite Sheet 1_16
+    21300034: Zombie - Sprite Sheet 1_17
+    21300036: Zombie - Sprite Sheet 1_18
+    21300038: Zombie - Sprite Sheet 1_19
+    21300040: Zombie - Sprite Sheet 1_20
+    21300042: Zombie - Sprite Sheet 1_21
+    21300044: Zombie - Sprite Sheet 1_22
+    21300046: Zombie - Sprite Sheet 1_23
+    21300048: Zombie - Sprite Sheet 1_24
+    21300050: Zombie - Sprite Sheet 1_25
+    21300052: Zombie - Sprite Sheet 1_26
+    21300054: Zombie - Sprite Sheet 1_27
+    21300056: Zombie - Sprite Sheet 1_28
+    21300058: Zombie - Sprite Sheet 1_29
+    21300060: Zombie - Sprite Sheet 1_30
+    21300062: Zombie - Sprite Sheet 1_31
+    21300064: Zombie - Sprite Sheet 1_32
+    21300066: Zombie - Sprite Sheet 1_33
+    21300068: Zombie - Sprite Sheet 1_34
+    21300070: Zombie - Sprite Sheet 1_35
+    21300072: Zombie - Sprite Sheet 1_36
+    21300074: Zombie - Sprite Sheet 1_37
+    21300076: Zombie - Sprite Sheet 1_38
+    21300078: Zombie - Sprite Sheet 1_39
+    21300080: Zombie - Sprite Sheet 1_40
+    21300082: Zombie - Sprite Sheet 1_41
+    21300084: Zombie - Sprite Sheet 1_42
+    21300086: Zombie - Sprite Sheet 1_43
+    21300088: Zombie - Sprite Sheet 1_44
+    21300090: Zombie - Sprite Sheet 1_45
+    21300092: Zombie - Sprite Sheet 1_46
+    21300094: Zombie - Sprite Sheet 1_47
+    21300096: Zombie - Sprite Sheet 1_48
+    21300098: Zombie - Sprite Sheet 1_49
+    21300100: Zombie - Sprite Sheet 1_50
+    21300102: Zombie - Sprite Sheet 1_51
+    21300104: Zombie - Sprite Sheet 1_52
+    21300106: Zombie - Sprite Sheet 1_53
+    21300108: Zombie - Sprite Sheet 1_54
+    21300110: Zombie - Sprite Sheet 1_55
+    21300112: Zombie - Sprite Sheet 1_56
+    21300114: Zombie - Sprite Sheet 1_57
+    21300116: Zombie - Sprite Sheet 1_58
+    21300118: Zombie - Sprite Sheet 1_59
+    21300120: Zombie - Sprite Sheet 1_60
+    21300122: Zombie - Sprite Sheet 1_61
+    21300124: Zombie - Sprite Sheet 1_62
+    21300126: Zombie - Sprite Sheet 1_63
+    21300128: Zombie - Sprite Sheet 1_64
+    21300130: Zombie - Sprite Sheet 1_65
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 357
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c99c7f63b18c80800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 357
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db728503ea014d0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 357
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd2eca52f1023780800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 357
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219583cc1b24f4d10800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 357
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8003391a96ed91cf0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 357
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbdfb4ab2f567e20800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 357
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb205a4f9e0cd4960800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 357
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f4093edb7eb0c0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 325
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88f4d4cd287301f0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 325
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7effa281e0c8c60800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 325
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9293d2c927e9033e0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1dfa09fcd614100800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 325
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4214e5abe5d320c0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 293
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2119fdbc35a626d00800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 293
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dfab10a20865e60800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 293
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887a3f0dc2c15e1b0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 293
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4952381aeeab2a00800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eccb562477ee90e0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 293
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc948aa5a3485cc0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 262
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ee45445aaa9eb20800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 262
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448008ab667e02000800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 262
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c691c7616734150800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 262
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10cdf03502ea240800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 229
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad9b8e839bcdbf0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 229
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483c28ea74e93ec0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 229
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e58f8098f836c60800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 229
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e229d84608ea14c80800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 228
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe5b85657fe0620800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b319acfd12706b720800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 197
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a498d4ce66220aa0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 197
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac733f257134b90800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 197
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb91a7fc8288fcc0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 197
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7535362311fcbe40800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 165
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c130b01e99aeaa10800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 165
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e133d8eebd39290800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 165
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbecf597cefa5c120800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 165
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2af370d41c496f0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 165
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57ea2e17f5d49a0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 165
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb65cb00f4e99c0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 165
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc830c4643771c40800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 165
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8983982e092f3cc0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56887da108ef1ae0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 133
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd7e087f7476b910800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4655378589b990800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 133
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fc1dad654dd3130800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 133
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1775e0e26dbe609c0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 101
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5755a95ab6656aa90800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 101
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dcb77df44828450800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 101
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd63433f55f61070800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 101
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7ab15be6320720800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 101
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c42ba3be699e50800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 101
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976a05fd425786840800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b74f24529b296a70800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93ec59a0bbb73a50800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 70
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81687b2141ce22500800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d8c447d47906b80800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba81324dab75ef4d0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 37
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2629b676e971a0f00800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d697b9096db6c0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287ffba52da6acf30800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad80dfa1600673340800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec72419d64eff20800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd5a24a1d8ae490800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b7c1a3b2e475cd0800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15981f607ff151260800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie - Sprite Sheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442a7e2b23a66a90800000000000000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
